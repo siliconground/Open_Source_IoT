@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Mon Nov 10 19:26:42 2025
+# Process ID         : 31140
+# Current directory  : D:/xilinx_project/zync7000_test/Open_Source_IoT/1_PlayGround/1_LED_Control/1_LED_Control.runs/synth_1
+# Command line       : vivado.exe -log system_wrapper.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source system_wrapper.tcl
+# Log file           : D:/xilinx_project/zync7000_test/Open_Source_IoT/1_PlayGround/1_LED_Control/1_LED_Control.runs/synth_1/system_wrapper.vds
+# Journal file       : D:/xilinx_project/zync7000_test/Open_Source_IoT/1_PlayGround/1_LED_Control/1_LED_Control.runs/synth_1\vivado.jou
+# Running On         : NPIT-DIGITAL-01
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26100
+# Processor Detail   : 13th Gen Intel(R) Core(TM) i9-13900K
+# CPU Frequency      : 2995 MHz
+# CPU Physical cores : 24
+# CPU Logical cores  : 32
+# Host memory        : 68410 MB
+# Swap memory        : 4294 MB
+# Total Virtual      : 72705 MB
+# Available Virtual  : 43295 MB
+#-----------------------------------------------------------
+source system_wrapper.tcl -notrace
