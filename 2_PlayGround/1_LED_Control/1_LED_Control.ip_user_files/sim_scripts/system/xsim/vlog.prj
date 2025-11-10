@@ -1,0 +1,12 @@
+verilog xil_defaultlib --include "C:/Xilinx/Vivado/2024.2/data/xilinx_vip/include" --include "../../../../1_LED_Control.gen/sources_1/bd/system/ipshared/ec67/hdl" --include "../../../../1_LED_Control.gen/sources_1/bd/system/ipshared/86fe/hdl" --include "../../../../1_LED_Control.gen/sources_1/bd/system/ipshared/f0b6/hdl/verilog" --include "../../../../1_LED_Control.gen/sources_1/bd/system/ipshared/0127/hdl/verilog" \
+"d:/xilinx_project/zync7000_test/Open_Source_IoT/1_PlayGround/1_LED_Control/1_LED_Control.gen/sources_1/bd/system/ip/system_processing_system7_0_0/system_processing_system7_0_0_sim_netlist.v" \
+"d:/xilinx_project/zync7000_test/Open_Source_IoT/1_PlayGround/1_LED_Control/1_LED_Control.gen/sources_1/bd/system/ip/system_axi_gpio_0_0/system_axi_gpio_0_0_sim_netlist.v" \
+"d:/xilinx_project/zync7000_test/Open_Source_IoT/1_PlayGround/1_LED_Control/1_LED_Control.gen/sources_1/bd/system/ip/system_axi_gpio_1_0/system_axi_gpio_1_0_sim_netlist.v" \
+"d:/xilinx_project/zync7000_test/Open_Source_IoT/1_PlayGround/1_LED_Control/1_LED_Control.gen/sources_1/bd/system/ip/system_axi_smc_0/system_axi_smc_0_sim_netlist.v" \
+"d:/xilinx_project/zync7000_test/Open_Source_IoT/1_PlayGround/1_LED_Control/1_LED_Control.gen/sources_1/bd/system/ip/system_rst_ps7_0_50M_0/system_rst_ps7_0_50M_0_sim_netlist.v" \
+"../../../bd/system/sim/system.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
