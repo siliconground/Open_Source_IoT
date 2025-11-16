@@ -1,2 +1,2 @@
-# Open_Source_IoT
-Open Source IoT Project using ZYBO Z7-20 Single Die SoC
+# `GitHub` 활용 사물인터넷 프로그래밍 캠프
+## 환영합니다
