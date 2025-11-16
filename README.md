@@ -8,7 +8,7 @@ GitHub을 중심으로 오픈소스 생태계 속에서 IoT 장비를 운영해 
 오픈소스의 철학은 자유와 자율 그리고 개방과 공유입니다. 
 여러분의 아이디어를 자유롭게 그리고 자발적으로 개방하고 타인과 공유함으로써, 여러분의 아이디어는 여러분 만의 것이 아니라 더욱 무한한 상상력으로 나아가는 가치를 경험할 수 있게 될 것입니다.
 
-## 🚐 구성은 다음과 같아요요
+## 🚐 구성은 다음과 같아요
 1. **Open Source Environment**
 * 일상 생활속에서 오픈소스에 대해서 알아봅니다. 오픈소스는 우리의 삶에 깊숙하게 파고들어 다재 다능한 방식으로 활용되고 있어요.  우리의 tiny project를 위한 몇 가지의 Open Source를 셋업하고 연결해 보면서 오픈소스의 편리함을 경험해 보아요.
 
@@ -20,4 +20,14 @@ GitHub을 중심으로 오픈소스 생태계 속에서 IoT 장비를 운영해 
 
 ## 🍕이런 재료들로 구성했어요
 > 먼저 우리의 프로젝트간 사용할 도구들을 다운로드 해 볼까요?
-> * Welcome Package : [Download](https://drive.google.com/drive/folders/17hgpCtB6U84NsFr3TUAZSjaWd7eYwUbl?usp=drive_link)
+
+* Welcome Package : [Download](https://drive.google.com/drive/folders/17hgpCtB6U84NsFr3TUAZSjaWd7eYwUbl?usp=drive_link)
+
+> 도구 모음은 다음과 같아요
+
+- [Visual Studio Code](https://code.visualstudio.com/docs/?dv=win64user) : Open Source 기반의 무한한 확장이 가능한 에디터 프로그램
+- [SourceTree](https://product-downloads.atlassian.com/software/sourcetree/windows/ga/SourceTreeSetup-3.4.26.exe) : 그림으로 보는 Git관리 프로그램
+- [Notion](https://www.notion.com/desktop/windows/download?from=marketing&pathname=%2Fdesktop&tid=c9e76650c69f4474985da99843f9b1be) : 다재다능한 노트 프로그램
+- [Slack](https://slack.com/downloads/instructions/windows?ddl=1&build=win64_msix) : 똑똑한 메신저 프로그램
+- [Git](https://github.com/git-for-windows/git/releases/download/v2.51.2.windows.1/Git-2.51.2-64-bit.exe) : 프로젝트 감시/관리 프로그램
+- [TeraTerm](https://github.com/TeraTermProject/teraterm/releases/download/v5.5.0/teraterm-5.5.0-x64.exe) : 컴퓨터 외부 연결 터미널 프로그램
