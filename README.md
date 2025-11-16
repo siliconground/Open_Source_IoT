@@ -20,4 +20,4 @@ GitHub을 중심으로 오픈소스 생태계 속에서 IoT 장비를 운영해 
 
 ## 🍕이런 재료들로 구성했어요
 > 먼저 우리의 프로젝트간 사용할 도구들을 다운로드 해 볼까요?
-> * Welcome Package: [Download]
+> * Welcome Package : [Download](https://drive.google.com/drive/folders/17hgpCtB6U84NsFr3TUAZSjaWd7eYwUbl?usp=drive_link)
