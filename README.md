@@ -1,6 +1,6 @@
 # 🖐️GitHub 활용 사물인터넷 프로그래밍 캠프
 
-## 🎁 소개합니다다
+## 🎁 어서오세요
 환영합니다! 
 GitHub을 중심으로 오픈소스 생태계 속에서 IoT 장비를 운영해 보는 프로젝트를 마련했습니다. 여러분이 어떤 전공을 하고 있더라도 오픈소스는 우리의 생활 한 가운데에 깊숙하게 자리하고 있어요. 
 오픈 소스는 말 그대로 열려 있는 소스입니다. 누구나 자유롭게 변형하고 운영 함으로써 여러분은 아이디어를 무한히 펼쳐 나갈 수 있게 됩니다.
@@ -31,3 +31,22 @@ GitHub을 중심으로 오픈소스 생태계 속에서 IoT 장비를 운영해 
 - [Slack](https://slack.com/downloads/instructions/windows?ddl=1&build=win64_msix) : 똑똑한 메신저 프로그램
 - [Git](https://github.com/git-for-windows/git/releases/download/v2.51.2.windows.1/Git-2.51.2-64-bit.exe) : 프로젝트 감시/관리 프로그램
 - [TeraTerm](https://github.com/TeraTermProject/teraterm/releases/download/v5.5.0/teraterm-5.5.0-x64.exe) : 컴퓨터 외부 연결 터미널 프로그램
+
+## 🚲 실습은 이렇게 준비했어요
+> Session1 : Environmental Setup
+1. E-mail Submit / Register
+2. Notion Invitation / Setup
+3. Slak Invitation / Setup
+4. Utils Download / Setup
+
+> Session2 : Git Pratice
+1. Git Setup
+2. GitHub Setup
+3. MarkDown Pratice
+4. Git CLI Practice
+5. SourceTree SEtup
+6. Git GUI Pratice
+
+> Session3 : IoT Pratice using PS(Processing System)
+1. Internal LED/Siwtch Control
+2. PMOD Control
